@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4611
+
+Syntax file for racoon.conf, the racoon (IPSec) configuration file. This syntax description has a small amount of context-sensitivity; it's more than a list of keywords, but far short of a strict parser.
+
+http://netbsd.gw.com/cgi-bin/man-cgi?racoon.conf
